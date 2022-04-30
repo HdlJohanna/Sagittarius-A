@@ -1,0 +1,5 @@
+
+        [".docker"]
+        image = "ubuntu:16.04"
+        entry-point = "ls"
+        
