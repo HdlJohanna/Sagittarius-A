@@ -1,3 +1,3 @@
 # Sagittarius-A*
 
-Your friendly Backup App
+Your friendly Backup Bot for GitHub
