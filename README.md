@@ -2,5 +2,3 @@
 
 Your friendly Backup Bot for GitHub
 
-
-
